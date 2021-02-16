@@ -1,0 +1,1 @@
+﻿Get-HotFix | Where-Object {$_.HotFixID -match "KB4535680"}
